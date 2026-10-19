@@ -22,12 +22,3 @@
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-### 📊 Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FliegenderEsel&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://streak-stats.demolab.com?user=FliegenderEsel&theme=tokyonight&hide_border=true" />
-
-</div>
